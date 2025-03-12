@@ -11,6 +11,9 @@ Health & Fitness-Website version 1 hosted [HERE!](https://fit-flex-red.vercel.ap
 ### Documentation
 For detailed documentation, refer to [Project Documentation](https://drive.google.com/drive/folders/1k58Q_gPzaeoLfZFZmIPegtguiYjxjhgb?usp=sharing).
 
+### Documentation
+For detailed project Documentation , refer to [Documentation](https://drive.google.com/file/d/1bW_isYOl3OSa5Gkgy7F_2IGnXbZsulfm/view?usp=sharing).
+
 ### Demo video
 for Detailed Demo video , refer to [project Demo video](https://drive.google.com/file/d/1y29mAhlWr4J8uEX5lyHzolv4Zz61tyqd/view?usp=sharing).
 
